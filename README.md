@@ -72,9 +72,13 @@ Atualmente também aplico esses conhecimentos em ambiente corporativo, desenvolv
 
 ## 💼 Experiência Profissional  
 
-### 🏢 MRV Engenharia e Participações S.A  
+### 🏢 PUC Minas   
+**Estágio em Desenvolvimento de Sistemas**  
+📍 Abr. 2026 – Atual 
+
+### MRV Engenharia e Participações S.A  
 **Assistente de Dados / Negociadora**  
-📍 Set. 2022 – Atual  
+📍 Set. 2022 – Abr. 2026  
 
 - Automação de tarefas e fluxos manuais utilizando Python e RPA  
 - Manipulação e consulta de dados com SQL (SQL Server e Cloud SQL - GCP)  
